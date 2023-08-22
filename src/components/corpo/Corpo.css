@@ -1,0 +1,11 @@
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.corpo{
+  background-color: rgb(176, 219, 219);
+  width: 50vw;
+  height: 50vh;
+}
+
